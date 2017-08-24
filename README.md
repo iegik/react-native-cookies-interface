@@ -44,3 +44,8 @@ const { getCookie, clearCookies, setCookie } = Cookies;
     expiration: 'YYYY-MM-DD'
 }
 ```
+
+#### Dependencies
+- [lodash](https://github.com/lodash/lodash)
+- [cookie](https://github.com/jshttp/cookie)
+- [react-native](https://github.com/facebook/react-native)
