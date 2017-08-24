@@ -1,0 +1,39 @@
+{
+  "name": "react-native-cookies-interface",
+  "version": "0.0.1",
+  "description": "Cookies interface for both platforms iOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iegik/react-native-cookies-interface.git"
+  },
+  "keywords": [
+    "cookies",
+    "react-native",
+    "ios",
+    "android",
+    "interface"
+  ],
+  "author": "Arturs Jansons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iegik/react-native-cookies-interface/issues"
+  },
+  "homepage": "https://github.com/iegik/react-native-cookies-interface#readme",
+  "devDependencies": {
+    "babel-core": "6.25.0",
+    "babel-preset-react-native": "2.0.0",
+    "babel-preset-react-native-stage-0": "1.0.1"
+  },
+  "dependencies": {
+    "react-native-cookiemanager": "iegik/react-native-cookiemanager#c28306c",
+    "react-native-cookies": "3.2.0"
+  },
+  "files": [
+    "index.js",
+    "CookiesInterface.js"
+  ]
+}
