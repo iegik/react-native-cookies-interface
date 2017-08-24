@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./CookiesInterface');
+module.exports = require('./CookiesInterface').default;
