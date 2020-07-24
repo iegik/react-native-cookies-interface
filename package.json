@@ -29,7 +29,7 @@
     "react-test-renderer": "16.0.0-alpha.12"
   },
   "dependencies": {
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "cookie": "0.3.1",
     "react-native-cookiemanager": "iegik/react-native-cookiemanager#c28306c",
     "react-native-cookies": "3.2.0"
